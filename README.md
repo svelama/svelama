@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Shankar 👋
 
-An architect, engineer and developer, with golang, kubernetes & cloud skills.
+An architect, and engineer, with golang, kubernetes & cloud skills.
 
 - 🔭 I’m currently working on building a CLI tool that creates a boiler plate codes for various kubernetes applications
 - 👯 I’m looking to collaborate on building cloud native solutions
